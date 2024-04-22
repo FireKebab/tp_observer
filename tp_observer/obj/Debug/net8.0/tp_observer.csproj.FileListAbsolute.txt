@@ -1,0 +1,11 @@
+c:\Users\FireKebab\clone\tp_note\tp_observer\bin\Debug\net8.0\tp_observer.deps.json
+c:\Users\FireKebab\clone\tp_note\tp_observer\bin\Debug\net8.0\tp_observer.dll
+c:\Users\FireKebab\clone\tp_note\tp_observer\bin\Debug\net8.0\tp_observer.pdb
+c:\Users\FireKebab\clone\tp_note\tp_observer\obj\Debug\net8.0\tp_observer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\FireKebab\clone\tp_note\tp_observer\obj\Debug\net8.0\tp_observer.AssemblyInfoInputs.cache
+c:\Users\FireKebab\clone\tp_note\tp_observer\obj\Debug\net8.0\tp_observer.AssemblyInfo.cs
+c:\Users\FireKebab\clone\tp_note\tp_observer\obj\Debug\net8.0\tp_observer.csproj.CoreCompileInputs.cache
+c:\Users\FireKebab\clone\tp_note\tp_observer\obj\Debug\net8.0\tp_observer.dll
+c:\Users\FireKebab\clone\tp_note\tp_observer\obj\Debug\net8.0\refint\tp_observer.dll
+c:\Users\FireKebab\clone\tp_note\tp_observer\obj\Debug\net8.0\tp_observer.pdb
+c:\Users\FireKebab\clone\tp_note\tp_observer\obj\Debug\net8.0\ref\tp_observer.dll
